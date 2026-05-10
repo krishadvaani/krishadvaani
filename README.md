@@ -15,9 +15,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 - 👯 **Looking to collaborate on:** Open source projects and innovative web applications
 - 💬 **Ask me about:** Web development, programming, and best practices
 - ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=6366f1&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Krish+Advaani;AgenticCoder+%7C+VibeCoder;Polymath+in+the+Making" alt="Typing SVG">
-</div>
+
  
 ---
  
