@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=gradient&customColorList=0,0,2,30&text=Welcome&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=To My GitHub ProfilecAlignY=62&descSize=18"/>
-<div align="center">
+
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=6366f1&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Krish+Advaani;AgenticCoder;VibeCoder;Full+Stack+Developer" alt="typing svg" />
 </div>
