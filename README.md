@@ -29,9 +29,9 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 
 
 ---
-
-## 🎖️ Contribution 
-
+<div align="center">
+  <h2>🎖️ Contribution</h2>
+</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishadvaani/krishadvaani/output/github-contribution-grid-snake-dark.svg" />
@@ -41,17 +41,17 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 </div>
 
 ---
-
-## 📊 Stats
-
+<div align="center">
+  <h2>📊 Stats</h2>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishadvaani&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=6b7280" alt="GitHub Stats">
 </div>
 
 ---
-
-## 🌐 Connect
-
+<div align="center">
+  <h2>🌐 Connect</h2>
+</div>
 <div align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/krishadvaani18)
