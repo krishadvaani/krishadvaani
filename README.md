@@ -46,7 +46,7 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
   <h2>📊 Stats</h2>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishadvaani&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=6b7280" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishadvaani&layout=compact&theme=transparent" />
 </div>
 
 ---
