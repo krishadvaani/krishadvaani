@@ -30,7 +30,7 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 
 ---
 
-## 🐍 Contribution Snake
+## 🎖️ Contribution 
 
 <div align="center">
   <picture>
@@ -42,7 +42,7 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishadvaani&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=6b7280" alt="GitHub Stats">
@@ -50,7 +50,7 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
   
