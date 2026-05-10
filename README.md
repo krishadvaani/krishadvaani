@@ -7,7 +7,7 @@
  
 ---
 <div align="center">
-## 🎓 About Me
+  <h2>🎓 About Me</h2>
 </div>
 I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about building innovative solutions. I believe in being a true polymath - learning everything and mastering multiple domains.
 
