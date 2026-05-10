@@ -8,7 +8,7 @@
 ---
 <div align="center">
 ## 🎓 About Me
-
+</div>
 I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about building innovative solutions. I believe in being a true polymath - learning everything and mastering multiple domains.
 
 - 🔭 **Currently building:** CliniQ (smart clinic management system), Mind-Map
@@ -16,7 +16,7 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 - � **Tech Stack:** Python, JavaScript, TypeScript, React, AI Agents
 - 🎯 **Goal:** Master all trades and build impactful solutions
 - ⚡ **Vibe:** Coding with energy and creativity
-</div>
+
 ---
 
 ## 🛠️ Tech Stack
