@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=KRISH%20ADVANI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AgenticCoder%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Polymath&descAlignY=60&descSize=20&color=gradient&customColorList=0,2,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=gradient&customColorList=0,0,0,2,30&text=KRISH%20ADVANI&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=AgenticCoder%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Polymath&descAlignY=62&descSize=18"/>
 <div align="center">
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=6366f1&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Krish+Advaani;AgenticCoder+%7C+VibeCoder;Polymath+in+the+Making" alt="Typing SVG">
