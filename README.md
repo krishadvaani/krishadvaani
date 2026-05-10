@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=6366f1&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Krish+Advaani;AgenticCoder+%7C+VibeCoder;Polymath+in+the+Making" alt="Typing SVG">
+  <h1 style="font-size: 36px; font-weight: bold; color: #6366f1; margin-bottom: 10px;">Krish Advaani</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=500&color=6b7280&center=true&vCenter=true&width=500&height=50&lines=AgenticCoder+%7C+VibeCoder;Polymath+in+the+Making" alt="Typing SVG">
 </div>
 
 ---
