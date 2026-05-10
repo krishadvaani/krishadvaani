@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=6366f1&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Krish+Advaani;AgenticCoder;VibeCoder;Full+Stack+Developer" alt="typing svg" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=440&height=45&lines=Building+Innovative+Solutions;AI+%26+Web+Development;Always+Learning+%26+Creating" alt="tech stack typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=440&height=45&lines=Building+Innovative+Solutions;AI+%26+Web+Development;Always+Learning+%26+Creating" alt="tech stack typing" />
 </div>
  
 ---
