@@ -18,9 +18,9 @@ I'm a 10th-grade student and an **AgenticCoder/VibeCoder** passionate about buil
 - ⚡ **Vibe:** Coding with energy and creativity
 
 ---
-
-## 🛠️ Tech Stack
-
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,tailwind,nodejs,git,github,figma,vscode&perline=6" />
